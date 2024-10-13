@@ -1,6 +1,6 @@
 # Random_Pacman
 
-Link: https://gowthammca23.github.io/Random_Pacman/
+Link: https://beskijoseph.github.io/RANDOM-PAC/
 
 RANDOM PACMAN
 
